@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Daniel Yapura
+- 🧑‍🎓 Information Systems Engineering Student 
 - 👀 I’m interested in mobile and backend development
 - 👀 I like java and kotlin
 - 🌱 I’m currently learning Spring
